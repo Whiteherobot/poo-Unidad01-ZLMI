@@ -9,8 +9,12 @@ package com.mycompany.poo.unidad01.zlmi;
  * @author Michi
  */
 public class Computadoras {
-    public String Componentes;
-    public double Costos;
+    public String componentes;
+    public double costos;
     public String marca;
     public float capacidad;
+    
+    public Computadoras(String componentes, double costos, String marca, float capacidad)
+            this.componentes = componentes;
+    
 }
