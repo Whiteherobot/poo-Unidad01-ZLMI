@@ -13,8 +13,4 @@ public class Computadoras {
     public double costos;
     public String marca;
     public float capacidad;
-    
-    public Computadoras(String componentes, double costos, String marca, float capacidad)
-            this.componentes = componentes;
-    
 }
