@@ -9,9 +9,9 @@ package com.mycompany.poo.unidad01.zlmi;
  * @author PC-11
  */
 public class motos {
-    String marca;
-    int placa;
-    int año;
-    String modelo;
-    double precio;
+    public String marca;
+    public int placa;
+    public int año;
+    public String modelo;
+    public double precio;
 }
