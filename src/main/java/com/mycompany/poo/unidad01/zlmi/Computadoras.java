@@ -13,4 +13,9 @@ public class Computadoras {
     public double costos;
     public String marca;
     public float capacidad;
+        public static void main(String[] args) {
+         
+        System.out.println("Computadoras");
+        
+        }
 }
